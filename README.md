@@ -73,5 +73,5 @@ Fornecer uma visão clara do desempenho comercial, ajudando na tomada de decisã
 
 ## 📄 Relatório Completo  
 O relatório em PDF com todos os gráficos e detalhes está disponível em:  
-👉 [analise_dados/relatorio.pdf](analise_dados/relatorio.pdf)  
+👉 [analise_dados/relatorio.pdf](analise_vendas/relatorio_vendas.pdf)  
 
